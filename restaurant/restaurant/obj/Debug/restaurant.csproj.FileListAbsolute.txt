@@ -1,0 +1,6 @@
+C:\visualstudio\restaurant\restaurant\bin\Debug\restaurant.exe.config
+C:\visualstudio\restaurant\restaurant\bin\Debug\restaurant.exe
+C:\visualstudio\restaurant\restaurant\bin\Debug\restaurant.pdb
+C:\visualstudio\restaurant\restaurant\obj\Debug\restaurant.csprojResolveAssemblyReference.cache
+C:\visualstudio\restaurant\restaurant\obj\Debug\restaurant.exe
+C:\visualstudio\restaurant\restaurant\obj\Debug\restaurant.pdb
